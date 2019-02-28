@@ -1,0 +1,2 @@
+# opencv_stitching_detail_cuda
+opencv_stitching_detail_cuda
